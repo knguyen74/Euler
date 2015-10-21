@@ -1,0 +1,5 @@
+public staic void main (String[] args){
+  int i = 0;
+  int max = 100;
+  
+}
